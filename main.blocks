@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="5O7!-pbb)),T]h_E.=/k" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="8Ism^J~^BFZ0DZGA8]8["><value name="TIMES"><shadow type="math_whole_number" id="RS)hrgP8S+j=Ekb/o+Sw"><field name="NUM">3</field></shadow></value><statement name="DO"><block type="device_show_leds" id="V`-11TNa=g32(Yf$Hw*5"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id=".h;kNX`ID|50!%)gA@wS"><value name="pause"><shadow type="timePicker" id="*;,Odi0k*K@Bai9bgNB*"><field name="ms">1000</field></shadow></value><next><block type="device_clear_display" id="b4uwy`#RX?1k,pW./6kZ"><next><block type="device_pause" id="(AMrO{%%rqcI35WS4vZi"><value name="pause"><shadow type="timePicker" id="hEn%$Y(-2jj`~F(]_+5y"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_forever" id=":-rhEEjdFGa(Bw:h,|Cj" x="841" y="142"></block></xml>
